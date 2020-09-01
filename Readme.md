@@ -64,8 +64,8 @@ https://github.com/yxchspring/MIAS_Preprocess
 
 If you find this research useful, please cite our paper.
 
-Xiangchun Yu 1, Wei Pang 2, Qing Xu 1,* and Miaomiao Liang 1,*, Mammographic Image Classification with Deep Fusion Learning.
+Xiangchun Yu 1, Wei Pang 2, Qing Xu 1,* and Miaomiao Liang 1,*, Mammographic image classification with deep fusion learning. Scientific Reports 10, 14361 (2020). https://doi.org/10.1038/s41598-020-71431-x
 
-If you have any question, please contact us below.
+If you have any questions, please contact us below.
 
 Xiangchun Yu: yuxc@jxust.edu.cn
